@@ -1,7 +1,8 @@
 BLOCK DIAGRAM:
 
 
-![image](https://user-images.githubusercontent.com/85006836/157002846-946e8a20-36a8-453f-be53-8ff0ea9c2e79.png)
+![image](https://user-images.githubusercontent.com/85006836/157017326-932a34f8-b013-41f6-a15a-434315dfe0cb.png)
+
 
 
 
