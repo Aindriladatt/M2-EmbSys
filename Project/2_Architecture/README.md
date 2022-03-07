@@ -1,7 +1,8 @@
 BLOCK DIAGRAM:
 
+![image](https://user-images.githubusercontent.com/85006836/157017543-e0af73e6-208a-4bd9-aab8-c476fd9d5a87.png)
 
-![image](https://user-images.githubusercontent.com/85006836/157017326-932a34f8-b013-41f6-a15a-434315dfe0cb.png)
+
 
 
 
@@ -20,4 +21,5 @@ After the sketch is sent to the arduino board and the board is powered, the syst
 
 FLOW CHART:
 
-![image](https://user-images.githubusercontent.com/85006836/157010062-7f05510f-13ee-4bf7-8b06-209ae9755699.png)
+![image](https://user-images.githubusercontent.com/85006836/157017447-fd8e5612-fd34-40b0-bc8d-364e44eff4b5.png)
+
