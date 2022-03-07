@@ -9,7 +9,7 @@ Nowadays, all the householders/owners are storing the water in overhead tanks by
 
 -->System should be able to detect the water level.
 
-LOW LEVEL REQUIREMENTS:
+# LOW LEVEL REQUIREMENTS:
 
 -->We can utilize this technology to measure the level of liquids in a tank. All we need to do is program the arduino in such a way that when the liquid is at certain distances from the sensor certain things happen, maybe an LED comes ON goes OFF, or a relay is energised to turn a switch ON or OFF.
 
