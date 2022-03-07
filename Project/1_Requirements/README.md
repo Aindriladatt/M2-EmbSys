@@ -1,9 +1,9 @@
-INTRODUCTION:
+# INTRODUCTION:
 
 A water level indicator is basically a system that relays information back to a control panel to indicate whether a body of water has a high or low water level. Some water level indicators use a combination of probe sensors or float switches to sense water levels.The Water Level Indicator employs a simple mechanism to detect and indicate the water level in an overhead tank or any other water container.The purpose of a water level indicator is to gauge and manage water levels in a water tank. The control panel can also be programmed to automatically turn on a water pump once levels get too low and refill the water back to the adequate level.
 Nowadays, all the householders/owners are storing the water in overhead tanks by using the pumps. When the water is stored in the tank, no one can identify the level of water and also, no one can know when the water tank will fill. Hence there is an overflow of water in the tank, thus there is a wastage of energy and water.To overcome this problem we can use water level indicator.
 
-HIGH LEVEL REQUIREMENTS:
+# HIGH LEVEL REQUIREMENTS:
 
 -->An ultrasonic distance sensor is used here to calculate the distance of the barrier from the ultrasonic sensor.
 
@@ -14,7 +14,7 @@ LOW LEVEL REQUIREMENTS:
 -->We can utilize this technology to measure the level of liquids in a tank. All we need to do is program the arduino in such a way that when the liquid is at certain distances from the sensor certain things happen, maybe an LED comes ON goes OFF, or a relay is energised to turn a switch ON or OFF.
 
 
-SWOT Analysis:
+# SWOT Analysis:
 
 Strengths:
 
@@ -46,7 +46,7 @@ Weakness:
 
 -->Keep the circuit clean always for long-lasting performances & efficiency.
 
-5Ws & 1H:
+# 5Ws & 1H:
 
 WHAT: Measures the water level when the circuits indicate when the tank its half and full.
 
