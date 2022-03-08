@@ -1,1 +1,7 @@
 # PROJECT:  WATER LEVEL INDICATOR
+
+# BEHAVIOURAL CIRCUIT DIAGRAM:
+
+![image](https://user-images.githubusercontent.com/85006836/157169527-0c133056-a8e8-461b-b61b-a258501e4a4a.png)
+
+
